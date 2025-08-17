@@ -1,5 +1,3 @@
-# oop/book_class.py
-
 class Book:
     def __init__(self, title: str, author: str, year: int):
         """Constructor: initializes a Book instance"""
